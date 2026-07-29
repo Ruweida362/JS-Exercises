@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "fullName": "Ahmed Hassan",
+        "username": "ahmed.admin",
+        "email": "ahmed@hotel.com",
+        "phone": "+252 61 2345678",
+        "role": "Admin",
+        "address": "Mogadishu, Somalia",
+        "status": "Active"
+    },
+    {
+        "id": 2,
+        "fullName": "Amina Ali",
+        "username": "amina.reception",
+        "email": "amina@hotel.com",
+        "phone": "+252 61 3456789",
+        "role": "Receptionist",
+        "address": "Mogadishu, Somalia",
+        "status": "Active"
+    },
+    {
+        "id": 3,
+        "fullName": "Mohamed Abdi",
+        "username": "mohamed.guest",
+        "email": "mohamed@gmail.com",
+        "phone": "+252 61 4567890",
+        "role": "Guest",
+        "address": "Hargeisa, Somalia",
+        "status": "Active"
+    }
+]
