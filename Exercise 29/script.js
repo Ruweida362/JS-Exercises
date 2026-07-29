@@ -2,7 +2,7 @@
  //               //   **  data from json file  **  //
 
 async function fetchData() {
-    console.log("Fetching data");
+    console.log("Fetching data from json file");
     const response = await fetch("data.json");
     const data = await response.json();
     console.log(response);
